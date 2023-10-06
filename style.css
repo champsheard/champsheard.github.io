@@ -1,0 +1,23 @@
+body{
+    background-image: url(images/Backround.jpg);
+}
+header{
+    height: 120px;
+    background-color: gray;
+}
+img{
+    padding-top: 10px;
+    padding-left: 10px;
+    height:100px;
+    float: left;
+
+}
+#main-text{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    float: left;
+    align-items: center;
+    width: 100px;
+
+}
